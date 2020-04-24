@@ -23,3 +23,7 @@ performance comparable or even superior to unsupervised method ManualDown in mos
 EASC can statistically significantly outperform the unsupervised method ManualUp with a large improvement in terms of Cliff’s delta in
 most cases. Therefore, the supervised CPDP methods are more promising than the unsupervised method in practical application
 scenarios, since the limitation of testing resource and the impact on developers cannot be ignored in these scenarios.
+
+
+
+[JSS.pdf](https://jacknichao.github.io/papers/2019/JSS10322.pdf).
